@@ -1,6 +1,6 @@
 {
   "name": "express-scan-route",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "express route scanner for directory based routing approach",
   "keywords": [
     "express",
