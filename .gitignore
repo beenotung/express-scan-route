@@ -1,0 +1,8 @@
+node_modules/
+*-lock.*
+*.lock
+.*-debug.log
+*.tsbuildinfo
+.env
+core.d.ts
+core.js
