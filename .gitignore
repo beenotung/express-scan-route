@@ -3,6 +3,7 @@ node_modules/
 *.lock
 .*-debug.log
 *.tsbuildinfo
+*.tgz
 .env
 core.d.ts
 core.js
